@@ -1,2 +1,5 @@
 /home/moyang/Linux/duoreactor/ReactorHttp/ReactorHttp/CMakeFiles/rebuild_cache.dir
 /home/moyang/Linux/duoreactor/ReactorHttp/ReactorHttp/CMakeFiles/edit_cache.dir
+/home/moyang/Linux/duoreactor/ReactorHttp/ReactorHttp/src/CMakeFiles/rebuild_cache.dir
+/home/moyang/Linux/duoreactor/ReactorHttp/ReactorHttp/src/CMakeFiles/ChatServer.dir
+/home/moyang/Linux/duoreactor/ReactorHttp/ReactorHttp/src/CMakeFiles/edit_cache.dir
