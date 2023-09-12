@@ -1,6 +1,6 @@
 # Webserver
 ===============
-Linux下Web服务器
+
 
 * 使用线程池 + 非阻塞socket + select/poll/epoll + 事件处理(Reactor和多reactor均实现) 的并发模型
 * 使用CMake实现项目的快速部署
